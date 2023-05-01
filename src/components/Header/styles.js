@@ -34,7 +34,7 @@ export const Wrapper = styled.div`
 export const Menu = styled.a`
   font-family: 'Open Sans';
   font-style: normal;
-  font-size: 0.8rem;
+  font-size: 1rem;
   line-height: 2rem;
   color: #fff;
   margin-left: 12px;

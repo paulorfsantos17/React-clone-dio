@@ -23,7 +23,7 @@ export const Home = () => {
             mundo e encare seu novo desafio profissional, evoluindo em
             comunidade com os melhores experts.
           </TextContent>
-          <Button title='Comece seu Futuro' variant='prymary'/>
+          <Button title='Comece seu Futuro' variant='primary'/>
         </div>
         <div>
           <img src={imgMain} alt="figure main" />

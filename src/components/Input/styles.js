@@ -21,3 +21,10 @@ export const InputText = styled.input`
   border:0;
   height: 30px;
 `
+
+export const TextError = styled.p`
+  font-size: .8rem;
+  color: red;
+  font-weight: 700;
+  margin-bottom: 12px;
+`
